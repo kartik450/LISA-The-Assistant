@@ -1,0 +1,13 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+googlesearch-python
+requests
+pywhatkit
+googletrans
+gtts
+pygame
+pydub
+pyaudio
+setuptools
+Speech_Recognition-python
